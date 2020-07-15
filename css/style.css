@@ -1,5 +1,11 @@
 body {
-    
+   
+    background: linear-gradient(rgb(45, 18, 119), rgb(147, 163, 207)); 
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+  
+
 }
 
 header {
