@@ -6,8 +6,9 @@ body {
     }
 P{
     font-size: medium;
-    font-weight: Normal;
-    text-align: left;
+    font-weight: normal;
+    text-align: center;
+    color: antiquewhite;
 }
 
 label {
@@ -17,6 +18,10 @@ label {
     
   }​
 
+h3{
+    text-align: center;   
+    color: antiquewhite;
+}
 
 
 .center {
