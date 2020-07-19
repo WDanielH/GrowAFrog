@@ -11,6 +11,11 @@ P{
     color: antiquewhite;
 }
 
+label {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle; 
+  }​
 
 h3{
     text-align: center;   
