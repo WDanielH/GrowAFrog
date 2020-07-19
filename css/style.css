@@ -6,9 +6,8 @@ body {
     }
 P{
     font-size: medium;
-    font-weight: normal;
-    text-align: center;
-    color: antiquewhite;
+    font-weight: Normal;
+    text-align: left;
 }
 
 label {
@@ -18,14 +17,7 @@ label {
     
   }​
 
-h3{
-    text-align: center;   
-    color: antiquewhite;
-}
 
-.container{
-    background: linear-gradient(#022411, rgb(21, 95, 25)); 
-}
 
 .center {
     display: block;
