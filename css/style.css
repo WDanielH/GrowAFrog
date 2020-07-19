@@ -1,6 +1,6 @@
 body {
    
-    background: linear-gradient(#022411, rgb(21, 95, 25)); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     font-size: large;
     }
@@ -18,7 +18,7 @@ h3{
 }
 
 .container{
-    color:purple;
+    background: linear-gradient(#022411, rgb(21, 95, 25)); 
 }
 
 
