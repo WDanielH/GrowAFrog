@@ -13,8 +13,9 @@ P{
 
 label {
     min-height: 10em;
-    display: table-cell;
-    vertical-align: middle; 
+    display: block;
+    float: left;
+    
   }​
 
 h3{
