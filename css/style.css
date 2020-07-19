@@ -27,12 +27,15 @@ h3{
     background: linear-gradient(#022411, rgb(21, 95, 25)); 
 }
 
+.ralph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+   
+}
 
 
-.carousel-inner > .item > img {
-    width:250px;
-    height:188px;
-  }
 
   .carousel-control-prev-icon,
 .carousel-control-next-icon {
