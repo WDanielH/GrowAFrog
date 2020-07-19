@@ -12,3 +12,4 @@ Future Improvement Ideas:
 1) The inspiration site has numerous other pages, I would like to include and improve on those.
 2) A functional modern store front for ordering would be an improvement.
 3) The styling on this site is nearly non-existent, since I want to incorporate (and modernize) many of the reference site's images styling was a bit outside the scope of this initial project.
+--a) Picture Banners for the jumbotron
